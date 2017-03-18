@@ -2,7 +2,7 @@
 
 This a Movie Search App that searches for a list of movies entered by the user and display the details of the movie.
 
-##Skills Used
+## Skills Used
 * HTML5
 * CSS3
 * JavaScript
