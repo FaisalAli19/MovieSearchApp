@@ -2,6 +2,8 @@
 
 This a Movie Search App that searches for a list of movies entered by the user and display the details of the movie.
 
+You can visit this app on heroku here: http://moviesearchapp19.herokuapp.com/
+
 ## Skills Used
 * HTML5
 * CSS3
