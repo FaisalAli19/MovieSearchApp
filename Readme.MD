@@ -1,16 +1,24 @@
 # Movie Search App
 
-This a Movie Search App that searches for a list of movies and displays the details for the same.
+This a Movie Search App that searches for a list of movies entered by the user and display the details of the movie.
+
+##Skills Used
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* Ajax
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Clone the repository from here: https://github.com/FaisalAli19/MovieSearchApp.git
+Clone the repository from here: https://github.com/FaisalAli19/MovieSearchApp.git or
+Download the Zip file to your machine.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install.
 
 ```
 NodeJs
