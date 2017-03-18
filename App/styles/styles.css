@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#movies img, #movie img{
+    width: 100%;
+}
+
+.container > .row > .col-md-3:nth-child(4n+1){
+    clear: both;
+}
+
+.well h5{
+    margin: 20px 0;
+}
+
+@media (min-width: 960px) {
+    #movies .col-md-3 .well{
+        height: 450px;
+    }
+
+    #movies .col-md-3 img{
+        height: 280px;
+    }
+}
